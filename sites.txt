@@ -1,0 +1,3 @@
+https://www.google.com/
+https://random-status-code.herokuapp.com
+https://stackoverflow.com/
